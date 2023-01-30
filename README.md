@@ -215,14 +215,14 @@ home.html
                     </div>
                 </header>
                 <div class="title">
-                    <h1>Bala style Universe PVT LTD</h1>
+                    <h1>kamalesh style Universe PVT LTD</h1>
                 </div><br>
                 <div class="content">
                     <div class="text">
                     <marquee><b>Feel BEAUTY through our Products</b></marquee>
                     <p style="color:purple; font-family:'Tahoma'; font-size:20px;"> This is the Official Website of our Company</p>
                     </div>
-                    <p>Buy our Fancy items and Cosmetics online for Women from <span style="background-color:lime">Bala style Universe PVT LTD</span>
+                    <p>Buy our Fancy items and Cosmetics online for Women from <span style="background-color:lime">kamalesh style Universe PVT LTD</span>
                          | Buy cosmetics in Whole sale| 7 Days Returns | Trend setting models | And much more</p>
                     <br>
                 <center>
@@ -237,7 +237,7 @@ home.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Bala</footer></div>
+                Copyright &copy;2023 Developed by kamalesh</footer></div>
             </div>
         </div>
     </body>
@@ -444,7 +444,7 @@ product.html
 
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Bala</footer></div>
+                Copyright &copy;2023 Developed by kamalesh</footer></div>
             </div>
         </div>
     </body>
@@ -633,7 +633,7 @@ people.html
                     <h4><u>Chairman</u></h4>
                     </div>
                     <div class="ceoph"></div>
-                    <div class="ceo"><p align="center"><b><h2>Bala</h2></b></div>
+                    <div class="ceo"><p align="center"><b><h2>kamalesh</h2></b></div>
                     <br>
                     <div class="text">
                         <p><b><u>Head executives</u></b></p><br>
@@ -654,7 +654,7 @@ people.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Bala</footer></div>
+                Copyright &copy;2023 Developed by kamalesh</footer></div>
             </div>
         </div>
     </body>
@@ -715,15 +715,15 @@ contact.html
                     <ul>
                         <li><b>Landline:</b> 12345678</li>
                         <li><b>Mobile</b>: 9987390220</li>
-                        <li><b>Facebook</b>: fb/Balapvtltd</li>
-                        <li><b>Email Id:</b>Balauma2910pvtltd@gmail.com</li>
+                        <li><b>Facebook</b>: fb/kamaleshpvtltd</li>
+                        <li><b>Email Id:</b>v.kamaleshvelmurugan@gmail.com</li>
                     </ul>
                     <div style="text-align: center;color:violet;font-size:20px;"><b>Use our Products and Beautify Yourself!</b></div>
 
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2023 Developed by Bala</footer></div>
+                Copyright &copy;2023 Developed by kamalesh</footer></div>
             </div>
         </div>
     </body>
